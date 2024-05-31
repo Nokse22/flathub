@@ -62,7 +62,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://github.com/nokse22/Exhibit.git",
+                    "url" : "https://github.com/nokse22/Exhibit",
                     "commit" : "b864fe12ebc11503e35fad2805e09068eb64d4d0"
                 }
             ]
